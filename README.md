@@ -1,4 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# By 5735512153
+## Firebase
+npm i -s firebase </br>
+npm i -s react-firebaseui </br>
+
 
 ## Available Scripts
 
